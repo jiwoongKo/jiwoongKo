@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={jiwoongKo}&show_icons=true&theme={theme})](https://github.com/{jiwoongKo}/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoongKo&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoongKo&show_icons=true&theme=radical)
 <!--
 **jiwoongKo/jiwoongKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
